@@ -1,8 +1,4 @@
 ## Functions to cache inverse of a matrix. 
-#Each time it is asked to invert a new matrix it check 
-#to see if it has already computed the inverse to avoid
-#repetitive recalculation. If the given matrix's inverse 
-#has not yet been computed we calculate it and cache the result. 
 
 
 ##This function creates a matrix object 
